@@ -1,9 +1,9 @@
-site_name: XueSong's <replace>
+site_name: XueSong's Summary and Outlook
 site_description: Simply-to Understand, Devote Yourself!
 site_author: XueSong Ye
 
-repo_name: 'yxs/<replace>'
-repo_url: 'https://github.com/yxs/<replace>'
+repo_name: 'yxs/summary-outlook'
+repo_url: 'https://github.com/yxs/summary-outlook'
 
 theme:
   name: material
