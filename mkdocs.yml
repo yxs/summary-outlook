@@ -21,7 +21,7 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.top
     - header.autohide
 
@@ -63,3 +63,4 @@ extra_javascript:
 
 plugins:
   - search
+  - tags
