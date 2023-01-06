@@ -1,5 +1,3 @@
-# notes-templates
+use https://github.com/adityatelange/hugo-PaperMod
 
-notes for tech, studies
-
-modify mkdocs to use.
+build blog later
